@@ -29,8 +29,8 @@ b=10
 if a < b:
     print("b მეტია a-ზე")
 elif:
-    print("a მეტია b-ზე")
+print("a მეტია b-ზე")
 elif:
-    print("a==b")
+print("a==b")
 else:
     print("a ნაკლებია b-ზე")
