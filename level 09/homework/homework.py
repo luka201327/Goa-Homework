@@ -1,13 +1,13 @@
-           #  1) შემოატანინეთ მომხმარებელს თავიანთი დაბადების წელი და გადააქციეთ integer-ად, ახსენით რატომ გააკეთეთ ეს
+  #  1) შემოატანინეთ მომხმარებელს თავიანთი დაბადების წელი და გადააქციეთ integer-ად, ახსენით რატომ გააკეთეთ ეს
 age=int(input("enter your age"))  
 print=(age)
 
-   #  2) შემოატანინეთ მომხმარებელს username და დაპრინტეთ: "Hello, (მისი username) !"
+ #  2) შემოატანინეთ მომხმარებელს username და დაპრინტეთ: "Hello, (მისი username) !"
 
 username=input("enter your username") 
 print=(username)
 
-  # 3) კომენტარებით ახსენით რა არის concatenation ( კონკატენაცია ) (from classwork)
+ # 3) კომენტარებით ახსენით რა არის concatenation ( კონკატენაცია ) (from classwork)
 
 #   კონკატენაცია (concatenation) არის ორი ან მეტი სტრინგის შეერთება
 
