@@ -1,0 +1,23 @@
+.btn-primary {
+    background-color: royalblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  .btn-secondary {
+    background-color: orange;
+    color: black;
+    border: 2px solid darkorange;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 0;
+    cursor: pointer;
+  }
+  
